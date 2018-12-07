@@ -19,7 +19,7 @@ module Sorcery
           require 'sorcery/providers/google'
           require 'sorcery/providers/jira'
           require 'sorcery/providers/salesforce'
-          require 'sorcery/providers/test_salesforce'
+          require 'sorcery/providers/testsalesforce'
           require 'sorcery/providers/paypal'
           require 'sorcery/providers/slack'
           require 'sorcery/providers/wechat'

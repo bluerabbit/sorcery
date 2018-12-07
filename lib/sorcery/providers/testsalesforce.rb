@@ -6,7 +6,7 @@ module Sorcery
     #   config.salesforce.secret = <secret>
     #   ...
     #
-    class TestSalesforce < Base
+    class Testsalesforce < Base
       include Protocols::Oauth2
 
       attr_accessor :auth_url, :token_url, :scope
